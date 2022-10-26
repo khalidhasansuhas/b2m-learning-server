@@ -7,6 +7,7 @@ app.use(cors())
 const port = process.env.PORT || 5000;
 
 const courses = require('./data/courses.json')
+const courseDetails = require('./data/courseDetails.json')
 
 app.get('/',(req,res)=>{
     res.send('b2m API Running');
