@@ -1,0 +1,79 @@
+[
+    {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "01",
+    "name":"Python",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "cur_student": 488,
+    "Total_student": 7788,
+    "employed": 5550,
+    "title": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields.",
+    "image_url": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png",
+    "fee":10000
+  },
+    {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab7c",
+    "id": "02",
+    "name":"Java",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "cur_student": 678,
+    "Total_student": 7098,
+    "employed": 6550,
+    "title": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible..",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+    "fee":10000
+  }
+  ,
+    {
+    "_id": "0282e0e58a5c404fbd15261f11c4an7c",
+    "id": "03",
+    "name":"JavaScript",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "cur_student": 998,
+    "Total_student": 8098,
+    "employed": 7550,
+    "title": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+    "fee":10000
+  },
+    {
+    "_id": "0282e0e58a5c404fbd15261f11r43n7c",
+    "id": "04",
+    "name":"C++",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "cur_student": 498,
+    "Total_student": 6098,
+    "employed": 5510,
+    "title": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+    "fee":10000
+  }
+  ,
+    {
+    "_id": "0282e0e58a5c404fbd15261f11r43b9c",
+    "id": "05",
+    "name":"Go",
+    "rating": { "number": 4.1, "badge": "Good" },
+    "cur_student": 298,
+    "Total_student": 4098,
+    "employed": 3510,
+    "title": "Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png",
+    "fee":10000
+  }
+  ,
+    {
+    "_id": "0282e0e58a5c404fbd15261f11r43b9c",
+    "id": "06",
+    "name":"PHP",
+    "rating": { "number": 4.2, "badge": "Good" },
+    "cur_student": 406,
+    "Total_student": 3798,
+    "employed": 2510,
+    "title": "PHP (recursive acronym for PHP: Hypertext Preprocessor ) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML..",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+    "fee":10000
+  }
+
+
+]
