@@ -17,6 +17,10 @@ app.get('/courses',(req,res)=>{
     res.send(courses)
 })
 
+app.get('/courseDetails',(req,res)=>{
+    res.send(courseDetails)
+})
+
 app.listen(port, ()=>{
     console.log('b2m server running at port:',port);
 })
