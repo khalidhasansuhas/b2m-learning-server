@@ -26,6 +26,11 @@ app.get('/coursedetails/:id',(req,res)=>{
     const selectedCourse = courseDetails.find(n=>n.id === id);
     res.send(selectedCourse)
 })
+app.get('/checkout/:id',(req,res)=>{
+    const id = req.params.id;
+    const selectedCourse = courseDetails.find(n=>n.id === id);
+    res.send(selectedCourse)
+})
 
 app.listen(port, ()=>{
     console.log('b2m server running at port:',port);
